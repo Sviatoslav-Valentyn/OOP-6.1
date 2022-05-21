@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(23,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(25,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(26,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(28,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(45,18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(48,52): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(49,64): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(57,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.h(67,41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(8,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(18,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(32,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(45,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(72,55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(87,72): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(96,19): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(104,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(139,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(144,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(153,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Array.cpp(162,20): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Debug\UnitTest1.lib и объект C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Asus\Desktop\ООП 6.1\OOP 6.1\Debug\UnitTest1.dll
